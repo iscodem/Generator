@@ -1,4 +1,4 @@
-package cn.itcast.ssm.po;
+package cn.zy.po;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package cn.itcast.ssm.mapper;
+package cn.zy.mapper;
 
-import cn.itcast.ssm.po.Orders;
-import cn.itcast.ssm.po.OrdersExample;
+import cn.zy.po.Orders;
+import cn.zy.po.OrdersExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
